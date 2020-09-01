@@ -1,0 +1,9 @@
+Loading Time                            0.047000 secs
+Kd-tree Cunstruction Time               0.016000 secs
+Caustics Photon Tracing Time            0.000000 secs
+  Stored Caustics Photons(Vol.0)        0 photons
+Caustics Photon Radius Computation Time 0.000000 secs
+Volume Photon Tracing Time              0.000000 secs
+  Stored Volume Photons(Vol.0)          0 photons
+Volume Photon Radius Computation Time   0.000000 secs
+Rendering Time                          8.309000 secs
