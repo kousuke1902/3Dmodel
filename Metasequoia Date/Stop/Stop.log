@@ -1,0 +1,27 @@
+Loading Time                            0.031000 secs
+Kd-tree Cunstruction Time               0.069000 secs
+Caustics Photon Tracing Time            0.000000 secs
+  Stored Caustics Photons(Vol.0)        0 photons
+Caustics Photon Radius Computation Time 0.000000 secs
+Volume Photon Tracing Time              0.000000 secs
+  Stored Volume Photons(Vol.0)          0 photons
+Volume Photon Radius Computation Time   0.000000 secs
+Rendering Time                          6.604000 secs
+Loading Time                            0.132000 secs
+Kd-tree Cunstruction Time               0.070000 secs
+Caustics Photon Tracing Time            0.000000 secs
+  Stored Caustics Photons(Vol.0)        0 photons
+Caustics Photon Radius Computation Time 0.000000 secs
+Volume Photon Tracing Time              0.000000 secs
+  Stored Volume Photons(Vol.0)          0 photons
+Volume Photon Radius Computation Time   0.000000 secs
+Rendering Time                          3.773000 secs
+Loading Time                            0.132000 secs
+Kd-tree Cunstruction Time               0.063000 secs
+Caustics Photon Tracing Time            0.000000 secs
+  Stored Caustics Photons(Vol.0)        0 photons
+Caustics Photon Radius Computation Time 0.000000 secs
+Volume Photon Tracing Time              0.000000 secs
+  Stored Volume Photons(Vol.0)          0 photons
+Volume Photon Radius Computation Time   0.000000 secs
+Rendering Time                          34.109000 secs
